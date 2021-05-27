@@ -27,8 +27,10 @@
     background-image: url('../images/budgetTracker.png');
     cursor: none;
 }
-
-
+.project7{
+    background-image: url('../images/Google\ Books\ Search.jpeg');
+    cursor: none;
+}
 .parallax{
     background-image: url('https://images.pexels.com/photos/691668/pexels-photo-691668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
 }

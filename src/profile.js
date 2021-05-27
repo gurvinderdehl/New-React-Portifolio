@@ -88,6 +88,13 @@ const projects = [
         skills: ["HTML, CSS, JS"],
         url: "https://floating-headland-48587.herokuapp.com/"
     },
+    {
+        
+        id: "project7",
+        name: "Project 7 - Google Books Search App",
+        skills: ["HTML, CSS, JS and React"],
+        url: ""
+    },
 ]
 
 const section5Title = "Get in Touch"
