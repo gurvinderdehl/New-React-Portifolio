@@ -93,7 +93,7 @@ const projects = [
         id: "project7",
         name: "Project 7 - Google Books Search App",
         skills: ["HTML, CSS, JS and React"],
-        url: ""
+        url: "https://pacific-gorge-50141.herokuapp.com/"
     },
 ]
 
